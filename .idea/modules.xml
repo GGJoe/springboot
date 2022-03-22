@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Junit_add/Junit_add.iml" filepath="$PROJECT_DIR$/Junit_add/Junit_add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/druid_add/druid_add.iml" filepath="$PROJECT_DIR$/druid_add/druid_add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_add/mybatis_add.iml" filepath="$PROJECT_DIR$/mybatis_add/mybatis_add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_plus_add/mybatis_plus_add.iml" filepath="$PROJECT_DIR$/mybatis_plus_add/mybatis_plus_add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot02/springboot02.iml" filepath="$PROJECT_DIR$/springboot02/springboot02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01/springboot_01.iml" filepath="$PROJECT_DIR$/springboot_01/springboot_01.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/springboot学习笔记/springboot_base_configuration/springboot_base_configuration.iml" filepath="$USER_HOME$/Desktop/springboot学习笔记/springboot_base_configuration/springboot_base_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmp/ssmp.iml" filepath="$PROJECT_DIR$/ssmp/ssmp.iml" />
+    </modules>
+  </component>
+</project>

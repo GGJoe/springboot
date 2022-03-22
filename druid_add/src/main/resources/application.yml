@@ -1,0 +1,14 @@
+
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://82.156.167.171/judge
+      username: root
+      password: Abc@97923
+
+
+
+
+
